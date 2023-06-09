@@ -1,7 +1,7 @@
-name = "samshum"
-first = "Hello"
+name = "samshum,"
+first = "Hello,"
 second = "My World!"
 print("Hello " + name);
 
-print(name /n + first + second)
+print(name + first + second)
 
