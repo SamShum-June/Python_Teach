@@ -5,3 +5,4 @@ print("Hello " + name);
 
 print(name + first + second)
 
+print()
