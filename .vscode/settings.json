@@ -2,5 +2,7 @@
     "python.autoComplete.extraPaths": [
         
 
-    ]
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "wolf.disableHotModeWarning": true
 }
